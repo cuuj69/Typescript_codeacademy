@@ -36,3 +36,4 @@ build/
 # Environments which should never be version controlled
 *.env.*
 *.js
+
